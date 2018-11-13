@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\vetor0Por2.deps.json
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\vetor0Por2.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\vetor0Por2.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\vetor0Por2.dll
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\vetor0Por2.pdb
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\vetor0Por2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\vetor0Por2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\vetor0Por2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\vetor0Por2.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\vetor0Por2.dll
+C:\Users\HP\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\vetor0Por2.pdb
